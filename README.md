@@ -27,3 +27,37 @@
 
 ## Canvas Basico 9
 ![](img/cap9.png)
+
+
+## Canvas Basico 10
+![](img/cap10.png)
+
+## Canvas Basico 11
+![](img/cap11.png)
+
+## Canvas Basico 12
+![](img/cap12.png)
+
+## Canvas Basico 13
+![](img/cap13.png)
+
+## Canvas Basico 14
+![](img/cap14.png)
+
+## Canvas Basico 15
+![](img/cap15.png)
+
+## Canvas Basico 16
+![](img/cap16.png)
+
+## Basico 1
+![](img/basico1.png)
+
+## Borrar Dibujo
+![](img/borrardibujo.png)
+
+## Colisiones 
+![](img/colisiones.png)
+
+## Puntos Finales
+![](img/puntosfinales.png)
